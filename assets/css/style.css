@@ -1,0 +1,40 @@
+body{
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	font-family:serif;
+	color: white;
+}
+#primero{
+	background-color: red;
+	width: 100%;
+	padding: 20px;
+	height: 130px;
+}
+#cuzco1{	
+	display: blue;
+	background-color: blue;
+	text-align: center;
+	padding: 0px;
+}
+
+#cuzco2{
+	position: relative;
+	float: right;
+	width: 100%;
+	
+}
+
+h1{
+	color: yellow;
+}
+#texto{
+	position: relative;	
+	position: absolute;
+	top: 20px;
+	right: 10px;
+	font-size: 20px;
+}
+span{
+	color:yellow;
+}
